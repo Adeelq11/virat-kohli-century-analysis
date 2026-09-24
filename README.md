@@ -30,6 +30,7 @@ An interactive Power BI dashboard analyzing Virat Kohli's 71 international centu
 - Home Centuries: 32
 - Centuries as Captain: 41
 - Centuries as Non-Captain: 30
+- ![Dashboard Screenshot](1 dashboard.png)
 
 ## 📌 Dashboard
 Built using Microsoft Power BI with interactive KPIs, charts and a Year slicer.
